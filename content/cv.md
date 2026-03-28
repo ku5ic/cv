@@ -1,5 +1,5 @@
 ---
-title: "Sinisa Kusic | Senior Frontend Engineer"
+title: "Siniša Kusić | Senior Frontend Engineer"
 subtitle: "Senior Frontend Engineer"
 lang: en
 ---
