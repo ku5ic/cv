@@ -43,7 +43,7 @@ contact.sinisa@gmail.com
 
 ### 2e Systems GmbH
 
-**Senior Software Analyst / Developer**
+**Senior Software Analyst / Developer (Senior Frontend Developer)**
 Oct 2022 - Oct 2025 | Remote
 
 - Led frontend architecture improvements and refactoring initiatives that reduced technical debt and improved long term maintainability.
@@ -73,7 +73,7 @@ Nov 2012 - Jan 2014 | Remote
 
 ### Independent Consulting, including Upwork
 
-**Frontend Developer / Consultant**
+**Senior Frontend Engineer / Consultant**
 2006 - 2022 | Remote
 
 Selected consulting work across SaaS, ecommerce, and data driven products. Some long term client engagements overlapped with dedicated roles listed separately above.
