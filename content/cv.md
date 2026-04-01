@@ -11,11 +11,7 @@ lang: en
 
 **Senior Frontend Engineer**
 
-Senior Frontend Engineer with 18+ years of experience building complex, long lived web applications. Specialized in modern frontend development with TypeScript, React, and Next.js, with a strong focus on architecture, performance, accessibility, and maintainability.
-
-Known for taking ownership of legacy or imperfect systems, reducing technical debt, and improving stability without losing delivery momentum.
-
-Experienced in product facing and enterprise style environments, working closely with product, design, QA, and backend teams. Particularly effective on frontend work that requires architectural judgment, pragmatic execution, and steady technical leadership.
+TypeScript, React, Next.js, frontend architecture, performance, accessibility.
 
 :::
 
@@ -30,6 +26,14 @@ contact.sinisa@gmail.com
 :::
 :::
 
+## Summary
+
+Senior Frontend Engineer with 18+ years of experience building complex, long lived web applications. Specialized in modern frontend development with TypeScript, React, and Next.js, with a strong focus on architecture, performance, accessibility, and maintainability.
+
+Known for taking ownership of legacy or imperfect systems, reducing technical debt, and improving stability without losing delivery momentum.
+
+Experienced in product facing and enterprise style environments, working closely with product, design, QA, and backend teams.
+
 ## Core strengths
 
 - Frontend architecture and large scale refactoring
@@ -43,7 +47,7 @@ contact.sinisa@gmail.com
 
 ### 2e Systems GmbH
 
-**Senior Software Analyst / Developer (Senior Frontend Developer)**
+**Senior Software Analyst / Senior Frontend Developer**
 Oct 2022 - Oct 2025 | Remote
 
 - Led frontend architecture improvements and refactoring initiatives that reduced technical debt and improved long term maintainability.
@@ -54,7 +58,7 @@ Oct 2022 - Oct 2025 | Remote
 
 ### GaggleAMP
 
-**Front End Developer**
+**Senior Frontend Engineer**
 Jan 2014 - Jul 2022 | Remote
 
 - Played a key role in modernizing the frontend through the migration from Backbone.js to React.
@@ -64,7 +68,7 @@ Jan 2014 - Jul 2022 | Remote
 
 ### Activecell (Profitably Inc.)
 
-**Front End Developer**
+**Senior Frontend Engineer**
 Nov 2012 - Jan 2014 | Remote
 
 - Rebuilt a data heavy application, improving data visualization and interactivity.

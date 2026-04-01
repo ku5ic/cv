@@ -1,6 +1,6 @@
 @page {
   size: A4;
-  margin: 12mm;
+  margin: 3mm;
 }
 
 :root {
@@ -218,7 +218,7 @@ strong {
 
 .cv-header {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 200px;
+  grid-template-columns: minmax(0, 1fr) 240px;
   gap: var(--header-gap);
   align-items: stretch;
   padding-bottom: var(--header-padding-bottom);
