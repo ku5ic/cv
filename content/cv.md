@@ -122,18 +122,10 @@ Django, Flask, Ruby on Rails, PHP, Laravel, Lumen, REST API integration
 
 ### Testing and delivery
 
-Jest, Cypress, unit testing, integration testing, Git, Docker, Webpack, Vite, CI/CD, GitHub Actions, Jenkins
+Jest, Cypress, Playwright, unit testing, integration testing, Git, Docker, Webpack, Vite, CI/CD, GitHub Actions, Jenkins
 :::
 
 :::
-
-## Professional development
-
-### Independent study and professional development
-
-**2006 - Present**
-
-Continuous learning focused on modern frontend development, architecture, accessibility, performance, and delivery practices.
 
 ## Additional notes
 
