@@ -45,53 +45,70 @@ Experienced in product facing and enterprise style environments, working closely
 
 ## Experience
 
+::: {.cv-entry}
+
 ### 2e Systems GmbH
 
-**Senior Software Analyst / Senior Frontend Developer**
-Oct 2022 - Oct 2025 | Remote
+**Senior Frontend Engineer** - Oct 2022 - Oct 2025 | Remote
 
-- Led frontend architecture improvements and refactoring initiatives that reduced technical debt and improved long term maintainability.
-- Drove performance optimization across critical user flows, contributing to substantially faster page loads.
-- Acted as a stabilizing technical presence through structured code reviews, pragmatic decision making, and mentoring support.
-- Collaborated closely with backend engineers, QA, product managers, and stakeholders on complex travel booking and ecommerce platforms.
-- Embedded accessibility into everyday development practices and supported consistent WCAG 2.2 aligned delivery.
+Worked on a complex airline ticket booking platform with ancillaries, multi-step transactional flows, dynamic pricing UI, and seat selection.
+
+- Led a staged refactor of a heavily modified legacy CRA codebase, restructuring it incrementally with each stage independently deployable and without disrupting normal feature delivery cycles
+- Drove performance optimization across critical booking flows, improving page load times and UI responsiveness on high-complexity transactional screens
+- Owned WCAG 2.2 compliance as a legal requirement, embedding accessibility into everyday development practices and driving the team toward full compliance
+- Acted as the primary technical reference for frontend decisions, conducting structured code reviews and mentoring one mid-level and one junior engineer
+- Collaborated closely with backend engineers, QA, product managers, and stakeholders across a multi-client platform with airline-specific customization layers
+
+:::
+
+::: {.cv-entry}
 
 ### GaggleAMP
 
-**Senior Frontend Engineer**
-Jan 2014 - Jul 2022 | Remote
+**Senior Frontend Engineer** - Jan 2014 - Jul 2022 | Remote
 
-- Played a key role in modernizing the frontend through the migration from Backbone.js to React.
-- Introduced reusable component libraries and internal style guides to improve consistency and scalability.
-- Improved application performance and developer workflows, contributing to more predictable delivery.
-- Worked closely with product and design to improve overall user experience.
+Sole frontend engineer on a B2B SaaS employee advocacy platform serving enterprise clients at scale, embedded within a Rails-focused backend team.
+
+- Initiated and led an incremental migration from Backbone.js to React, modernizing the frontend without disrupting ongoing product delivery
+- Built a reusable component library from scratch, establishing consistent UI patterns and accelerating feature development across the full product
+- Owned the entire frontend across dashboard, activity feeds, admin, and reporting UI, serving hundreds of thousands of daily active users generating and sharing content across multiple social networks
+- Drove performance work as a core requirement given the scale and real-time nature of the platform, ensuring consistent UI responsiveness under high content volume
+- Worked directly with product and design as the sole frontend voice, translating requirements into architecture decisions and delivery
+
+:::
+
+::: {.cv-entry}
 
 ### Activecell (Profitably Inc.)
 
-**Senior Frontend Engineer**
-Nov 2012 - Jan 2014 | Remote
+**Senior Frontend Engineer** - Nov 2012 - Jan 2014 | Remote
 
-- Rebuilt a data heavy application, improving data visualization and interactivity.
-- Developed modular UI components using Sass, Backbone.js, Handlebars, and Rails.
-- Created and maintained style guides for scalable frontend development.
+Worked on a SaaS platform for virtual CFO and bookkeeping services, covering recurring billing, client referrals, add-on selection, and recurring task management.
+
+- Rebuilt key parts of a data-heavy application, improving interactivity and data visualization across complex financial workflows
+- Developed modular UI components using Sass, Backbone.js, Handlebars, and Rails
+- Created and maintained style guides to support consistent and scalable frontend development
+
+:::
+
+::: {.cv-entry}
 
 ### Independent Consulting, including Upwork
 
-**Senior Frontend Engineer / Consultant**
-2006 - 2022 | Remote
+**Senior Frontend Engineer / Consultant** - 2006 - 2022 | Remote
 
-Selected consulting work across SaaS, ecommerce, and data driven products. Some long term client engagements overlapped with dedicated roles listed separately above.
+Selected consulting work across SaaS, ecommerce, and data-driven products. Some long-term client engagements are listed separately in this profile.
 
-- Delivered production frontend work across a range of client engagements and product environments.
-- Built and maintained web applications with a strong focus on usability, performance, and long term maintainability.
-- Worked across both legacy and modern frontend stacks, with later specialization in React based development.
-- Built trusted client relationships through reliability, clear communication, and consistent delivery.
+- Consulted on frontend architecture, performance, and accessibility across multiple product teams and stacks
+- Led React-based modernization work on legacy codebases, improving maintainability and developer workflow
+- Delivered code reviews, technical audits, and architectural assessments for teams scaling their frontend
+- Maintained $500K+ in earned contracts across 9 engagements with a 5.0 rating, working primarily on long-term retainers
 
-### Planned Career Break
+:::
 
-**Oct 2025 - Present**
+#### Career Break - Oct 2025 - Present
 
-Took a planned career break to focus on health and long term sustainability, while refining the systems and routines that support consistent, high quality work.
+Took a deliberate break to focus on health and long-term sustainability after nearly two decades of continuous work. Using the time to stay technically current and return with full capacity and clear direction.
 
 ## Skills
 
@@ -108,7 +125,7 @@ React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Sass, Tailwind, Redux
 
 ### Architecture, performance, accessibility
 
-Frontend architecture, refactoring, design systems, maintainability, WCAG 2.1 / 2.2, ARIA, Lighthouse, Core Web Vitals
+Frontend architecture, refactoring, design systems, maintainability, WCAG 2.2 AA, ARIA, Lighthouse, Core Web Vitals
 :::
 
 ::: {}
@@ -126,7 +143,3 @@ Jest, Cypress, Playwright, unit testing, integration testing, Git, Docker, Webpa
 :::
 
 :::
-
-## Additional notes
-
-Earlier experience available on request.

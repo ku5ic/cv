@@ -22,21 +22,21 @@
     Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
     "Segoe UI", sans-serif;
 
-  --font-size-body: 14.5px;
-  --font-size-body-sm: 13px;
-  --font-size-caption: 12.5px;
-  --font-size-summary: 15.5px;
-  --font-size-role: 11.5px;
-  --font-size-section: 13px;
-  --font-size-item: 17px;
+  --font-size-body: 12px;
+  --font-size-body-sm: 12px;
+  --font-size-caption: 12px;
+  --font-size-summary: 14px;
+  --font-size-role: 12px;
+  --font-size-section: 14px;
+  --font-size-item: 16px;
   --font-size-display: 32px;
   --font-size-header-title: 54px;
 
   --line-height-tight: 1.4;
-  --line-height-body: 1.66;
-  --line-height-meta: 1.5;
-  --line-height-summary: 1.78;
-  --line-height-header-title: 0.92;
+  --line-height-body: 1.6;
+  --line-height-meta: 1.4;
+  --line-height-summary: 1.6;
+  --line-height-header-title: 1;
 
   --font-weight-regular: 400;
   --font-weight-medium: 500;
@@ -53,7 +53,7 @@
   --page-min-height-mm: 297mm;
   --page-width-screen: 920px;
   --page-padding-screen: 52px 60px 60px;
-  --page-padding-print: 16mm 18mm 18mm;
+  --page-padding-print: 8mm 12mm 12mm;
 
   /* Spacing scale */
   --space-1: 4px;
@@ -74,7 +74,7 @@
 
   /* Header */
   --header-gap: 0;
-  --header-padding-bottom: 16px;
+  --header-padding-bottom: 0;
   --header-margin-bottom: 0;
 
   --header-title-color: var(--color-text);
@@ -93,9 +93,9 @@
   --section-title-weight: var(--font-weight-bold);
   --section-title-tracking: var(--tracking-label);
   --section-title-color: var(--color-text-soft);
-  --section-title-margin-top: 32px;
-  --section-title-margin-bottom: 16px;
-  --section-title-padding-top: 10px;
+  --section-title-margin-top: 18px;
+  --section-title-margin-bottom: 8px;
+  --section-title-padding-top: 18px;
   --section-title-border: 1px solid var(--color-border);
 
   /* Item titles */
@@ -104,17 +104,17 @@
   --item-title-margin-bottom: 5px;
 
   /* Content */
-  --paragraph-margin-bottom: 12px;
+  --paragraph-margin-bottom: 6px;
   --list-padding-left: 20px;
-  --list-item-margin-bottom: 6px;
-  --link-size: 12.5px;
+  --list-item-margin-bottom: 0;
+  --link-size: 12px;
 
   /* Skills */
-  --skills-grid-gap-row: 18px;
-  --skills-grid-gap-column: 34px;
-  --skills-grid-title-size: 15px;
-  --skills-grid-title-margin-bottom: 6px;
-  --skills-grid-text-size: 13.5px;
+  --skills-grid-gap-row: 0;
+  --skills-grid-gap-column: 0;
+  --skills-grid-title-size: 12px;
+  --skills-grid-title-margin-bottom: 0;
+  --skills-grid-text-size: 12px;
   --skills-grid-text-color: var(--color-text-muted);
 }
 
@@ -313,6 +313,10 @@ p + h3 {
   margin-top: var(--space-6);
 }
 
+.cv-entry {
+  margin-bottom: var(--space-7);
+}
+
 .skills-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -346,5 +350,37 @@ p + h3 {
 
   a {
     text-decoration: none;
+  }
+
+  .cv-entry {
+    margin-bottom: var(--space-4);
+    page-break-inside: avoid;
+  }
+}
+
+@media screen {
+  :root {
+    --font-size-body: 16px;
+    --font-size-body-sm: 14px;
+    --font-size-caption: 14px;
+    --font-size-summary: 17px;
+    --font-size-role: 13px;
+    --font-size-section: 15px;
+    --font-size-item: 18px;
+
+    --line-height-tight: 1.4;
+    --line-height-body: 1.6;
+    --line-height-meta: 1.5;
+    --line-height-summary: 1.8;
+
+    --list-item-margin-bottom: 6px;
+
+    --header-meta-text-size: 14px;
+    --link-size: 14px;
+
+    --skills-grid-title-size: 14px;
+    --skills-grid-text-size: 14px;
+
+    --paragraph-margin-bottom: 12px;
   }
 }
